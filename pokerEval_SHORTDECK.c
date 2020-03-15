@@ -7,12 +7,10 @@
 #include <string.h>
 
 #include "poker_SHORTDECK.h"
-
-// Poker hand evaluator
-//
-// Kevin L. Suffecool
-// kevin@suffe.cool
-//
+/*************************************************/
+/*                                               */
+/*   by martin Skoglund */
+/*************************************************/
 
 void srand48();
 double drand48();
