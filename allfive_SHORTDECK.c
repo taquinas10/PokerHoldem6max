@@ -2,15 +2,8 @@
 #include "poker_SHORTDECK.h"
 
 /*************************************************/
-/*                                               */
-/* This code tests my evaluator, by looping over */
-/* all 2,598,960 possible five card hands, cal-  */
-/* culating each hand's distinct value, and dis- */
-/* playing the frequency count of each hand type */
-/*                                               */
-/* Kevin L. Suffecool, 2001                      */
-/* kevin@suffe.cool                              */
-/*                                               */
+ #Evaltester#
+#by Martin Skoglund#
 /*************************************************/
 
 main()
