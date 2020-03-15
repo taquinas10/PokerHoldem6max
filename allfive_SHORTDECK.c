@@ -2,8 +2,9 @@
 #include "poker_SHORTDECK.h"
 
 /*************************************************/
- #Evaltester#
-#by Martin Skoglund#
+/*                                               */
+/* This code tests my evaluator, by looping over */
+/* all hands  by martin Skoglund */
 /*************************************************/
 
 main()
